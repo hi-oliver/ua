@@ -148,12 +148,12 @@ margin: auto;
       color: black;
 }
 #IP_cellar {
-      margin: auto;
+      margin: 0px;
+      position: absolute;
       padding: 20px;
       background: black;
       width: 100%;
-      margin: auto;
-      text-align: left;
+      text-align: center;
 }
 #fontcellar {
   text-align: left;
